@@ -4,7 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=falcon883&color=blueviolet" />
 </p>
 
-* :desktop_computer: I’m looking to collaborate on open source projects :raised_hands:	
 
 ![Durvank's GitHub stats](https://github-readme-stats.vercel.app/api?username=falcon883&count_private=true&show_icons=true&theme=radical)
 
