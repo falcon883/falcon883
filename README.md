@@ -14,7 +14,7 @@
 
 I'm a software developer with about a year of industry experience building full-stack web apps and automating things that shouldn't be manual. I spent time at Ven Analytics working on Django/Angular apps and CI/CD pipelines, and I'm currently in grad school at Clark while working on side projects.
 
-Right now I'm looking for SWE internships for Summer/Fall 2025.
+Right now I'm looking for SWE internships for Summer/Fall 2026.
 
 ---
 
