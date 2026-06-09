@@ -36,12 +36,6 @@ Right now I'm looking for SWE internships for Summer/Fall 2026.
 
 ---
 
-### Current project
-
-**[ReleaseRadar](https://github.com/falcon883/releaseradar)** - a release and incident management system I built from scratch. FastAPI backend with JWT auth and role-based access, React + TypeScript frontend, PostgreSQL, and Docker. Has analytics dashboards for tracking incident trends and environment health. Still adding to it.
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=falcon883&color=blueviolet" alt="Profile views" />
 </p>
