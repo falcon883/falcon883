@@ -2,6 +2,9 @@
 <h3 align="center">Full-Stack Developer &nbsp;|&nbsp; MS CS @ Clark University</h3>
 
 <p align="center">
+  <a href="https://durvank-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/durvankd/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
